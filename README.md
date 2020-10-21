@@ -22,11 +22,11 @@ My name is Alvaro Armijos and I am a Flutter developer who is passionate about m
 
 ## My Github Stats
 
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=alvaroarmijos&show_icons=true&theme=dark&line_height=50&hide=contribs,prs">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroarmijos&hide=css,java,html&theme=dark">
 </p>
+
 
 To know more about my apps:
 - View [TCambio](https://play.google.com/store/apps/details?id=com.daitecec.tcambio).
