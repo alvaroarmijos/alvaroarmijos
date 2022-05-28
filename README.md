@@ -3,7 +3,7 @@
 
 # Hi 👋
 
-My name is Alvaro Armijos and I am a Flutter developer who is passionate about mobile apps.
+Mobile Developer with +2 years of experience developing mobile applications, involved in the whole software development life cycle providing IT solutions for MaaS and LaaS using Flutter, Java and Kotlin.  I consider myself a technology and learning enthusiast, there have never been excuses when learning something new and I love trying new technologies, recently Backend with Node.js and Frontend with Vue.js.
 
 
 ## 🔧 Technologies & Tools
