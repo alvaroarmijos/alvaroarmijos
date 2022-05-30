@@ -27,7 +27,3 @@ Mobile Developer with +2 years of experience developing mobile applications, inv
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroarmijos&hide=css,java,html&theme=dark">
 </p>
 
-
-To know more about my apps:
-- View [TCambio](https://play.google.com/store/apps/details?id=com.daitecec.tcambio).
-- View [Emivery](https://play.google.com/store/apps/details?id=com.daitec.emivery).
