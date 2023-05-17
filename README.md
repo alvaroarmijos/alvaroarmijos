@@ -3,7 +3,7 @@
 
 # Hi 👋
 
-Mobile Developer with +2 years of experience developing mobile applications, involved in the whole software development life cycle providing IT solutions for MaaS and LaaS using Flutter, Java and Kotlin.  I consider myself a technology and learning enthusiast, there have never been excuses when learning something new and I love trying new technologies, recently Backend with Node.js and Frontend with Vue.js.
+Experienced Mobile Developer specializing in Flutter and Kotlin with 3 years of hands-on experience. Proficient in a wide range of Flutter libraries and tools (Bloc, Provider, Getx, Riverpod, Getit, Mobx) and dedicated to optimizing performance through industry best practices and design patterns (MVVM, Clean Architecture, DDD, SOLID). Skilled in a full app development lifecycle, including building from scratch, adding features, and migrating to Flutter. Passionate about delivering exceptional user experiences and collaborating effectively in cross-functional teams. Committed, results-oriented, and constantly seeking to enhance skills and stay updated with mobile development advancements.
 
 
 ## 🔧 Technologies & Tools
