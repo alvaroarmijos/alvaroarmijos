@@ -3,7 +3,7 @@
 
 # Hi 👋
 
-Experienced Mobile Developer with 3 years of hands-on experience. Proficient in a wide range of Flutter libraries and tools and dedicated to optimizing performance through industry best practices and design patterns. Skilled in a full app development lifecycle, including building from scratch, adding features, and migrating to Flutter. Passionate about delivering exceptional user experiences and collaborating effectively in cross-functional teams. Committed, results-oriented, and constantly seeking to enhance skills and stay updated with mobile development advancements.
+Experienced Flutter Developer with 4 years of hands-on experience. Proficient in a wide range of libraries, tools and dedicated to optimizing performance through industry best practices and design patterns. Skilled in a full app development lifecycle, including building from scratch, adding features and tests. Passionate about delivering exceptional user experiences and collaborating effectively in cross-functional teams. Committed, results-oriented, and constantly seeking to enhance skills and stay updated with mobile development advancements.
 
 
 ## 🔧 Technologies & Tools
